@@ -1,5 +1,8 @@
 # Zoho Sign + Google Sheets Automation Workflow
 
+<img width="1075" height="627" alt="image" src="https://github.com/user-attachments/assets/7ef4c52b-b9a7-40ed-aada-de8de1d46f83" />
+
+
 ## What This Does
 
 I built this n8n workflow to completely automate our student enrollment process. Before this, our team was manually sending Zoho Sign documents, copying data into 5 different Google Sheets, and constantly checking if students had signed their agreements. It was tedious and error-prone.
@@ -125,4 +128,4 @@ You'll need:
 The workflow itself is pretty plug-and-play once you have the credentials configured.
 
 ---
-By Anant Bisht - AI Software Engineer
+### By Anant Bisht - AI Software Engineer
